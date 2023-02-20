@@ -1,0 +1,9 @@
+; ModuleID = 'moudle'
+source_filename = "moudle"
+
+@a = global i32 2
+
+define i32 @main() {
+mainEntry:
+  %pointerb = alloca i32, align 4
+}
